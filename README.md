@@ -10,31 +10,34 @@ This could help in clustering the restaurants into segments. Also the data has v
 
 Data could be used for sentiment analysis. Also the metadata of reviewers can be used for identifying the critics in the industry.
 
-Attribute Information
-Zomato Restaurant names and Metadata
-Name : Name of Restaurants
+**Attribute Information**
 
-Links : URL Links of Restaurants
+**Zomato Restaurant names and Metadata**
 
-Cost : Per person estimated Cost of dining
+**Name** : Name of Restaurants
 
-Collection : Tagging of Restaurants w.r.t. Zomato categories
+**Links** : URL Links of Restaurants
 
-Cuisines : Cuisines served by Restaurants
+**Cost** : Per person estimated Cost of dining
 
-Timings : Restaurant Timings
+**Collection** : Tagging of Restaurants w.r.t. Zomato categories
 
-Zomato Restaurant reviews
-Restaurant : Name of the Restaurant
+**Cuisines** : Cuisines served by Restaurants
 
-Reviewer : Name of the Reviewer
+**Timings** : Restaurant Timings
 
-Review : Review Text
+**Zomato Restaurant reviews**
 
-Rating : Rating Provided by Reviewer
+**Restauran**t : Name of the Restaurant
 
-MetaData : Reviewer Metadata - No. of Reviews and followers
+**Reviewer** : Name of the Reviewer
 
-Time: Date and Time of Review
+**Review** : Review Text
 
-Pictures : No. of pictures posted with review
+**Rating** : Rating Provided by Reviewer
+
+**MetaData** : Reviewer Metadata - No. of Reviews and followers
+
+**Time**: Date and Time of Review
+
+**Pictures** : No. of pictures posted with review
